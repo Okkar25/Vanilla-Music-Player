@@ -23,6 +23,12 @@ const songList = [
     src: "assets/4.mp3",
     cover: "assets/4.jpg",
   },
+  {
+    name: "Small Girl",
+    artist: "Lee Young Ji",
+    src: "assets/5.mp3",
+    cover: "assets/5.jpg",
+  },
 ];
 
 const artistName = document.querySelector(".artist-name");
