@@ -29,6 +29,18 @@ const songList = [
     src: "assets/5.mp3",
     cover: "assets/5.jpg",
   },
+  {
+    name: "I Don't Wanna Love You Anymore",
+    artist: "Lany",
+    src: "assets/6.mp3",
+    cover: "assets/6.jpg",
+  },
+  {
+    name: "Leave Em Alone",
+    artist: "Layton Greene",
+    src: "assets/7.mp3",
+    cover: "assets/7.jpg",
+  },
 ];
 
 const artistName = document.querySelector(".artist-name");
